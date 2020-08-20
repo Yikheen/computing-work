@@ -1,7 +1,7 @@
 # My Portfolio
 ## First Git Hub folio
 
-**from** dunman high school, Lew Yik Sheen
+**from** [dunman high school](https://dunmanhigh.moe.edu.sg/) , Lew Yik Sheen
 
 my Hobbies:
  *sleep
