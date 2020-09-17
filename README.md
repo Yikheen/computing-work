@@ -4,9 +4,9 @@
 **from** [dunman high school](https://dunmanhigh.moe.edu.sg/) , Lew Yik Sheen
 
 my Hobbies:
- *sleep
- *eat
- *play game
+  *sleep
+  *eat
+  *play games
 
 education:
  1: Kong Hwa School
